@@ -1,4 +1,8 @@
-numpy
-scipy
-matplotlib
+numpy==1.23.3
+scipy==1.9.1
+matplotlib==3.6.0
 playsound==1.2.2
+ipykernel==6.15.3
+sounddevice
+soundfile
+pandas

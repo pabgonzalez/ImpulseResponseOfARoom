@@ -5,4 +5,3 @@ playsound==1.2.2
 ipykernel==6.15.3
 sounddevice
 soundfile
-pandas
